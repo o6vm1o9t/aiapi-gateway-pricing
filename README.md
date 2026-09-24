@@ -2,7 +2,7 @@
 
 > **one key, published unit prices** — image2.5 from $0.0085/image, video from $0.01056/second, LLM input from $0.0228 per million tokens.
 
-**[Model page](https://apimart.ai/model/gateway)** · **[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Model page](https://go.apimart.ai/k-658281)** · **[Live pricing](https://go.apimart.ai/k-f27bba)** · **[Get an API key](https://go.apimart.ai/k-4718da)**
 
 Everything on this page refers to **gateway** — also written **ai api gateway**, **gateway** or **gateway** — served through the OpenAI-compatible APIMart gateway at `https://api.apimart.ai/v1`.
 
